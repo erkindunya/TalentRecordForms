@@ -24,3 +24,13 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+
+## Deploy or Reverse Eng steps
+### 1. Added AntD after SPFX react web part using 
+npm install antd
+
+### 2. Added lodash after AntD
+$ npm i -g npm
+$ npm i --save lodash
+
+
